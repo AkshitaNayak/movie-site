@@ -114,3 +114,4 @@ https://api.themoviedb.org/3/person/${actorId}/movie_credits?api_key=API_KEY_HER
 
 
 
+install tailwind css, toaster, react-dom-router@6
